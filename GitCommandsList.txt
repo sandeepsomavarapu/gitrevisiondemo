@@ -6,6 +6,6 @@ git branch branch_name
 git checkout branch_name
 git commit -m "git commands"
 git add filename
-
+git push --set-upstream https://github.com/sandeepsomavarapu/gitrevisiondemo.git ct_local
 
 
